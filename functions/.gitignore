@@ -5,3 +5,6 @@ node_modules/
 firebase-debug.log
 .env
 .DS_Store
+
+import_output.txt
+logs.txt
